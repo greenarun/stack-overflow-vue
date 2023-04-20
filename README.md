@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Start JSON server in port 3000
+```
+npm run start
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
